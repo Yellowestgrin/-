@@ -1,11 +1,12 @@
 table {
-border: 1px solid red;
+border: 1px solid gray;
+width="50%"
 }
 
 th {
-border: 1px solid red;
+border: 1px solid gray;
 }
 
 td {
-border: 1px solid red;
+border: 1px solid gray;
 }
